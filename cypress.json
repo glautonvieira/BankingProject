@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://restful-booker.herokuapp.com",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "waitForAnimations": true,
+  "defaultCommandTimeout": 15000,
+  "requestTimeout": 15000,
+  "videoUploadOnPasses": false,
+  "retries": {
+    "runMode": 2,
+    "openMode": 1
+  },
+  "env": {
+    "url": "https://www.globalsqa.com/angularJs-protractor/BankingProject"
+  }
+}

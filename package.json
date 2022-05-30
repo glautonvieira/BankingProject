@@ -1,0 +1,17 @@
+{
+  "name": "automation-tests-globalsqa",
+  "version": "1.0.0",
+  "description": "End to end tests for Banking Project",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open",
+    "cy:run": "./node_modules/.bin/cypress run --browser chrome"
+  },
+  "author": "Glauton Vieira",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.1.0",
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.7.0"
+  }
+}
