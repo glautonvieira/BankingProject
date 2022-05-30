@@ -1,5 +1,5 @@
 ### Banking Project E2E Tests
-![Alt text](cypress/files/banking_project.gif)
+![Alt text](cypress/files/globalsqa.gif)
 
 ## Project Setup
 
@@ -8,7 +8,7 @@ $ npm install
 ```
 
 ```shell
-npm install --save-dev cypress @testing-library/cypress
+$ npm install --save-dev cypress @testing-library/cypress
 ```
 
 ### Running the E2E Tests
