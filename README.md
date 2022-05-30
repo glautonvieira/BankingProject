@@ -53,9 +53,10 @@ The tests are inside the `integration` directory grouped by what they represent.
 
 ```javascript
 │   ├── pages
+│       ├── AddCustomerPage.js
+│       ├── CustomerPage.js
 │       ├── HomePage.js
-│       ├── ReservationPage.js
-│       ├── UserProfilePage.js
+│       ├── OpenAccountPage.js
 ```
 
 ![Alt text](cypress/files/test_results.png)
